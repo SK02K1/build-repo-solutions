@@ -76,12 +76,20 @@
 **Example:**  
 **Input:** `encodeString("neogcamp", 2)` ––> **Output:** `pgqiecor`  
 Explanation: 2 represents shifting alphabets by 2 places. a –> c, b –> d, c –> e and so on.
+
+    [solution](https://replit.com/@sk02k1/functions-advance-ques01#index.js)
 1. Given a sentence, return a sentence with first letter of all words as capital.  
 **Example:**  
 **Input:** `toSentenceCase('we are neoGrammers')` ––> **Output:** `We Are NeoGrammers`
+
+    [solution](https://replit.com/@sk02k1/functions-advance-ques02#index.js)
 1. Given an array of numbers, your function should return an array in the ascending order.  
 **Example:**  
 **Input:** `sortArray([100,83,32,9,45,61])` ––> **Output:** `[9,32,45,61,83,100]`
+
+    [solution](https://replit.com/@sk02k1/functions-advance-ques03#index.js)
 1. Given a sentence, your function should reverse the order of characters in each word, keeping same sequence of words.  
 **Example:**  
 **Input:** `reverseCharactersOfWord('we are neoGrammers')` –––> **Output:** `ew era sremmarGoen`
+
+    [solution](https://replit.com/@sk02k1/functions-advance-ques04#index.js)
