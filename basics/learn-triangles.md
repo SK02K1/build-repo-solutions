@@ -20,8 +20,10 @@ Let your imagination run wild for this one. Some ideas which you can do. Create 
 
      - make these sections and create a nice app around triangles.
      - keep adding more features and make it pretty!
-     
+
 ## extrapolate
 
 - Take any geometric figure and do similar things with it. You will get hands on with the operators and end up making useful apps too.
-- Once you're done, put all apps at one place and you can send it to your juniors for help. 
+- Once you're done, put all apps at one place and you can send it to your juniors for help.
+
+## [solution](https://utkh2.csb.app/)

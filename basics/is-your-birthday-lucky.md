@@ -17,3 +17,11 @@ Use [modulo operator](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Re
 ## stack
 
 Can use CLI, vanillaJS and or React for this.
+
+## solutions
+
+- [CLI](https://replit.com/@sk02k1/basics-is-your-birthday-lucky#index.js)
+
+- [VanillaJS](https://0k0wu.csb.app/)
+
+- [ReactJS](https://gjnfu.csb.app/)

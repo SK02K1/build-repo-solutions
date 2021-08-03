@@ -14,3 +14,11 @@
  ## bonus
  - use right emoji or graphics to show profit/loss
  - can you change the entire theme of the app to sad if someone has lost more than 50%?
+
+ ## solutions
+
+- [CLI](https://replit.com/@sk02k1/basics-profit-or-loss-on-your-stock#index.js)
+
+- [VanillaJS](https://04vfy.csb.app/)
+
+- [ReactJS](https://vnt58.csb.app/)
