@@ -9,4 +9,12 @@
 ## bonus
 
 - show a gif when you're doing the calculation to show that numbers are being crunched.
-- problem with this is that it will not slow your computer, explore setTimeout in JS to produce an artificial delay. 
+- problem with this is that it will not slow your computer, explore setTimeout in JS to produce an artificial delay.
+
+## solutions
+
+- [CLI](https://replit.com/@sk02k1/basics-palindrome-birthday#index.js)
+
+- [VanillaJS](https://5yls4.csb.app/)
+
+- [ReactJS](https://5cmi8.csb.app/)

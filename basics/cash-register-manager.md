@@ -8,3 +8,11 @@
 ## bonus
 
 - You need two inputs from the user. Can you make it in a way where second input is only visible after the first input is given i.e. bill amount should be filled.
+
+## solutions
+
+- [CLI](https://replit.com/@sk02k1/basics-cash-register-manager#index.js)
+
+- [VanillaJS](https://t31zs.csb.app/)
+
+- [ReactJS](https://xz3gq.csb.app/)
