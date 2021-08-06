@@ -36,6 +36,8 @@
 
 1. Here's an API, it can give two errors. Either 404, or 401. If the error is 404, show the user `'page not found'` and if the error is 401, show the user `'you are not logged in'`.
 
+    [solution](https://codesandbox.io/s/interview-ques10-j7jcy)
+
 1. Open your Github repo. Make a small change. And create a PR. Explain what you understand by Git, what's PR etc.
 
 1. Create a password checker web app. If password is lesser than 10 characters then show an error to user otherwise show success. 
