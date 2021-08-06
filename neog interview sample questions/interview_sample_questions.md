@@ -53,6 +53,8 @@ Someone can ask to make the submit button disabled. Some can ask to make the inp
 
 1. Create color variables in CSS. Two colors: primary and secondary. Now make your h1 of primary color, h2 of secondary color. Make two buttons, primary and secondary using the same color. Can you also set a font from Google Font?
 
+    [solution](https://codesandbox.io/s/interview-ques14-55bwd)
+
 1. Create two objects with name, age, and yuga as `Ram, 25, Treta. Krishna, 31, Dwapar`. 
 Write a function which takes two objects and return the person with more age.
 
