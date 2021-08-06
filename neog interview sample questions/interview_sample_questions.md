@@ -55,13 +55,29 @@ Someone can ask to make the submit button disabled. Some can ask to make the inp
 
     [solution](https://codesandbox.io/s/interview-ques14-55bwd)
 
-1. Create two objects with name, age, and yuga as `Ram, 25, Treta. Krishna, 31, Dwapar`. 
-Write a function which takes two objects and return the person with more age.
+1. Create two objects with name, age, and yuga as :
 
-1. Create two objects with name, age, and power as Ram, 2500, Treta. Krishna, 2325, Dwapar.Write a function which takes two objects and return the person with more `power`. 
+    `Ram, 25, Treta`
 
-1. Create two objects with name, age, and power as Ram, 2500, Treta. Krishna, 2325, Dwapar. 
-Say if every character in name is worth 35 power points.
+    `Krishna, 31, Dwapar`
+
+    Write a function which takes two objects and return the person with more `age`.
+
+1. Create two objects with name, age, power and yuga as :
+
+    `Ram, 25, 2500, Treta`
+
+    `Krishna, 31, 2325, Dwapar`
+
+    Write a function which takes two objects and return the person with more `power`.
+
+1. Create two objects with name, age, power and yuga as :
+
+    `Ram, 25, 2500, Treta`
+
+    `Krishna, 31, 2325, Dwapar`
+
+    Say if every character in name is worth `35 power points`.
 Write a function which takes two objects and return the person with more power based on their name and power both.
 
 1. Create a CLI app which would detect fake news. This app will take news as input and then source. If source is Facebook or whatsapp then it will output user saying, `"Don't believe things on FB and Whatsapp"`. Can you extend this to include telegram as well?
