@@ -4,7 +4,7 @@
 
 1. Create a web app which would take two inputs. It would also have 4 buttons: `+, -, x /`. Based on the button clicked perform the operation on the two inputs. You can do this in React or vanillaJS based on your choice.
 
-    [solution](https://cp1rz.csb.app/)
+    [solution](https://codesandbox.io/s/interview-ques02-cp1rz)
 
 1. Create a web app where I can input a text. Now create two buttons + and -. On clicking + increase the fontSize by `2px` and vice versa.
 
