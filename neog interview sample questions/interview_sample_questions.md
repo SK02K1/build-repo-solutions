@@ -40,6 +40,8 @@
 
 1. Open your Github repo. Make a small change. And create a PR. Explain what you understand by Git, what's PR etc.
 
+    [solution](https://github.com/SK02K1/test-repo/pulls)
+
 1. Create a password checker web app. If password is lesser than 10 characters then show an error to user otherwise show success. 
 Someone can ask to make the submit button disabled. Some can ask to make the input field green or red depending on input.
 
