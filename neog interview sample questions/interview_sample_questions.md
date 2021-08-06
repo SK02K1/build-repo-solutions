@@ -63,6 +63,8 @@ Someone can ask to make the submit button disabled. Some can ask to make the inp
 
     Write a function which takes two objects and return the person with more `age`.
 
+    [solution](https://replit.com/@sk02k1/interview-ques15#index.js)
+
 1. Create two objects with name, age, power and yuga as :
 
     `Ram, 25, 2500, Treta`
